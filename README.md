@@ -7,9 +7,9 @@ A simple python-based simulation of a line-following robot using OpenCV
 and PID control.
 
 Features
-1.Detects a path using image processing.
-2.Simulates a moving robot.
-3.Uses a PID controller for accuracy
+- **Detects a path using image processing.**
+- **Simulates a moving robot.**
+- **Uses a PID controller for accuracy**
 
 Installation 
 1.Clone this repository:

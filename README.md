@@ -6,7 +6,7 @@ AI Liine - Following Robot Simulation
 A simple python-based simulation of a line-following robot using OpenCV 
 and PID control.
 
-Features
+Features                                                                        
 - **Detects a path using image processing.**
 - **Simulates a moving robot.**
 - **Uses a PID controller for accuracy**
